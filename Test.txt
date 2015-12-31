@@ -3,3 +3,5 @@ Test00:git push
 Test01:git config --global credential.helper wincred
 
 Test02:git config --global credential.helper wincred
+
+Test03:SSH
