@@ -1,3 +1,5 @@
-Test:git push
+Test00:git push
 
-Test:git config --global credential.helper wincred
+Test01:git config --global credential.helper wincred
+
+Test02:
