@@ -1,1 +1,3 @@
-To see is to believe.
+Test:git push
+
+Test:git config --global credential.helper wincred
